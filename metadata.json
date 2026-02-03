@@ -1,0 +1,5 @@
+{
+  "name": "となみタイムカード",
+  "description": "A high-performance, mobile-first attendance management system featuring clock-in/out tracking, staff management, monthly calendar views, and work hour statistics.",
+  "requestFramePermissions": []
+}
