@@ -1,11 +1,11 @@
 
 import React, { useState, useEffect } from 'react';
 import { Staff, AttendanceLog, LogType } from './types';
-import StaffSelector from './components/StaffSelector';
-import ClockButtons from './components/ClockButtons';
-import CalendarView from './components/CalendarView';
-import StatsView from './components/StatsView';
-import AddStaffModal from './components/AddStaffModal';
+import StaffSelector from './StaffSelector';
+import ClockButtons from './ClockButtons';
+import CalendarView from './CalendarView';
+import StatsView from './StatsView';
+import AddStaffModal from './AddStaffModal';
 
 const STORAGE_KEY_STAFF = 'attendance_app_staff_v1';
 const STORAGE_KEY_LOGS = 'attendance_app_logs_v1';
